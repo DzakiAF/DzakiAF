@@ -16,6 +16,7 @@ I’m Dzaki Ahmad Fardian, a Data Scientist and Data Analyst with a strong passi
 
 ## 📫 Connect with Me  
 🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dzaki-ahmad-fardian-789b01280/) 
+
 📧 **Email**: dzakdzak03@gmail.com  
 
 ---
