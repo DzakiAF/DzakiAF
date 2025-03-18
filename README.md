@@ -2,7 +2,7 @@
 
 👋 **Hello! Dive into my projects and let's explore data together**  
 
-I’m DzakiAF, a Data Scientist and Data Analyst with a strong passion for turning data into meaningful insights. With expertise in statistics, machine learning, and data engineering, I enjoy working on data-driven projects that solve real-world problems and drive business decisions.  
+I’m Dzaki Ahmad Fardian, a Data Scientist and Data Analyst with a strong passion for turning data into meaningful insights. With expertise in statistics, machine learning, and data engineering, I enjoy working on data-driven projects that solve real-world problems and drive business decisions.  
 
 ---
 
